@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.mycompany.ecommercejava.servlets","l":"RegistrationServlet"},{"p":"com.mycompany.ecommercejava.entities","l":"User"}]
